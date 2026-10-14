@@ -1,77 +1,118 @@
 <!--
-  DEMO README: every name, project, number, and link below is SAMPLE DATA.
-  Replace anything marked [DEMO] with your real information before publishing.
-  Delete these comments when you're done.
+  DEMO README: every name, project, metric, and link below is placeholder data.
+  Replace each item marked with [EDIT] before publishing.
+  Place this file in a public repo named exactly like your GitHub username.
 -->
 
-<p align="center">
-  <img src="Ankon-Profile.png" alt="Banner for Alex Rahman, Test Automation Engineer" width="200" height="200">
-</p>
-
-
 <h1 align="center">Alex Rahman</h1>
-<h3 align="center">Test Automation Engineer · API & CI/CD Automation</h3>
+<h3 align="center">Automation Engineer | Test Automation, CI/CD & Workflow Tooling</h3>
 
 <p align="center">
-  I build reliable test automation and delivery pipelines that cut manual effort and catch regressions early.
+  I build reliable automation that cuts manual effort, catches regressions early, and keeps release pipelines fast and predictable.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:you@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio.example.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://your-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
 ## About Me
 
-- Automation engineer focused on **test automation, API testing, and CI/CD** *[DEMO]*
-- Care most about **maintainable frameworks, fast feedback loops, and readable reports** *[DEMO]*
-- Currently learning **Kubernetes and observability for test environments** *[DEMO]*
-- Open to roles in **SDET / QA automation / DevOps-leaning automation** *[DEMO]*
+- Automation Engineer with **4+ years** of experience *(demo [EDIT])* in test automation, API validation, and CI/CD pipeline tooling.
+- I focus on automation that is **maintainable**: clear structure, good reporting, and tests that fail for real reasons, not flaky ones.
+- Currently working on: **a scalable API test framework with parallel execution and rich reporting**.
+- Currently learning: **Kubernetes, observability tooling, and AI-assisted test generation**.
+- Open to: **Senior Automation Engineer / SDET roles** and open-source collaboration.
+
+---
 
 ## Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript/TypeScript, Bash, SQL |
+| **UI & E2E Testing** | Selenium, Playwright, Cypress |
+| **API Testing** | Pytest, Requests, Postman/Newman, REST Assured |
+| **CI/CD** | GitHub Actions, Jenkins, GitLab CI |
+| **Containers & Infra** | Docker, Docker Compose, Linux |
+| **Cloud** | AWS (EC2, S3, Lambda) |
+| **Data & Reporting** | PostgreSQL, Allure Report, Pandas |
+| **Version Control** | Git, GitHub |
 
-**Test & Automation:** ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,selenium,cypress,docker,kubernetes,githubactions,jenkins,postgres,aws,linux,git&perline=7" alt="Tech stack icons" />
+</p>
 
-**CI/CD & Infrastructure:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+> **Proficiency note** *(demo [EDIT])*: Python, Pytest, Playwright, GitHub Actions, and Docker are used daily at work. Kubernetes and AWS Lambda are used in personal projects and still being learned.
 
-**Data & Tools:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Allure](https://img.shields.io/badge/Allure_Report-FF5C8D)
-
-> *Learning:* Kubernetes, Grafana *[DEMO]*
+---
 
 ## Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**api-test-framework**](https://github.com/YOUR-ankontheanalyst-cell/api-test-framework) | Reusable REST API test framework with schema validation, data-driven cases, and HTML reports | Python, Pytest, Requests |
-| [**ui-e2e-suite**](https://github.com/YOUR-ankontheanalyst-cell/ui-e2e-suite) | Cross-browser end-to-end suite using the Page Object pattern, runs in parallel on every pull request | Playwright, GitHub Actions |
-| [**pipeline-templates**](https://github.com/YOUR-ankontheanalyst-cell/pipeline-templates) | Reusable CI workflow templates for linting, testing, and Docker builds | GitHub Actions, Docker |
-| [**report-automation**](https://github.com/YOUR-ankontheanalyst-cell/report-automation) | Script that collects test results and publishes a summary to a team channel | Python, Allure |
+### 1. [api-test-framework](https://github.com/your-username/api-test-framework) *(demo)*
+A modular API testing framework built on Pytest with parallel execution, schema validation, and Allure reporting.
+- **Problem it solves:** slow, hard-to-maintain API regression suites.
+- **Highlights:** reusable client layer, data-driven tests, environment-based configuration, Dockerized runs.
+- **Stack:** Python, Pytest, Requests, Allure, Docker, GitHub Actions
 
-*[DEMO] These repositories are placeholders. Add measurable results only once you have real figures.*
+### 2. [e2e-playwright-suite](https://github.com/your-username/e2e-playwright-suite) *(demo)*
+An end-to-end UI test suite using the Page Object Model with cross-browser support.
+- **Problem it solves:** inconsistent manual checks before each release.
+- **Highlights:** retry strategy for flaky steps, trace/video capture on failure, CI sharding.
+- **Stack:** TypeScript, Playwright, GitHub Actions
 
-## Experience Highlights
+### 3. [ci-pipeline-templates](https://github.com/your-username/ci-pipeline-templates) *(demo)*
+Reusable CI/CD workflow templates for linting, testing, building, and deploying.
+- **Problem it solves:** duplicated pipeline code across repositories.
+- **Highlights:** reusable GitHub Actions workflows, caching, matrix builds, status notifications.
+- **Stack:** YAML, GitHub Actions, Bash, Docker
 
-- **QA Automation Engineer**, Example Company *(2023 – present)* *[DEMO]*
-  - Built and maintained the API and UI regression suites in CI
-  - Introduced parallel test execution and consolidated reporting
-- **Junior QA Engineer**, Sample Co. *(2021 – 2023)* *[DEMO]*
-  - Automated smoke tests and test data setup scripts
+### 4. [report-automation-toolkit](https://github.com/your-username/report-automation-toolkit) *(demo)*
+Python scripts that pull data from APIs and databases and generate scheduled reports.
+- **Problem it solves:** repetitive manual reporting.
+- **Highlights:** CLI interface, configurable sources, email and file output.
+- **Stack:** Python, Pandas, PostgreSQL, Cron
+
+---
+
+## Experience Highlights *(demo [EDIT])*
+
+- **Automation Engineer, Example Tech Ltd.** (2023 - Present)
+  Designed and maintained API and UI test suites, integrated them into CI pipelines, and improved test reporting for the QA team.
+- **QA Engineer, Sample Software Co.** (2021 - 2023)
+  Built the first automated regression suite and moved manual test cases into scripted checks.
+
+> Replace with your real roles. Add measurable results only when you can verify them (for example: "reduced regression time from X to Y").
+
+---
+
+## Certifications & Learning *(demo [EDIT])*
+
+- ISTQB Certified Tester Foundation Level *(placeholder, remove if not applicable)*
+- Currently studying: Kubernetes fundamentals, observability with Prometheus and Grafana
+
+---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ankontheanalyst-cell&show_icons=true&hide_border=true&count_private=false" />
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankontheanalyst-cell&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=false" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
-## Let's Connect
+> Replace `your-username` with your GitHub username. These cards use the public `github-readme-stats` service, which can occasionally be rate-limited or slow.
 
-I'm happy to talk about test strategy, automation frameworks, and CI/CD practices. Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) or by [email](mailto:you@example.com).
+---
 
-<p align="center"><i>Automate the repetitive, so people can focus on the interesting problems.</i></p>
+## Connect With Me
 
+- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- Email: your.email@example.com
+- Portfolio / Blog: [your-portfolio.example.com](https://your-portfolio.example.com)
+
+---
+
+<p align="center"><i>Good automation is quiet: it runs, it reports honestly, and it lets the team ship with confidence.</i></p>
