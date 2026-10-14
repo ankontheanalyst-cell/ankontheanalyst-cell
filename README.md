@@ -60,8 +60,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?ankontheanalyst-cell=YOUR-ankontheanalyst-cell&show_icons=true&hide_border=true&count_private=false" />
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?ankontheanalyst-cell=YOUR-ankontheanalyst-cell&layout=compact&hide_border=true" />
+  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ankontheanalyst-cell&show_icons=true&hide_border=true&count_private=false" />
+  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankontheanalyst-cell&layout=compact&hide_border=true" />
 </p>
 
 ## Let's Connect
