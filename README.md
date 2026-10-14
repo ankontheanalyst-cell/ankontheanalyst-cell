@@ -4,6 +4,11 @@
   Delete these comments when you're done.
 -->
 
+<p align="center">
+  <img src="ankon.png" alt="Banner for Alex Rahman, Test Automation Engineer" width="100%">
+</p>
+
+
 <h1 align="center">Alex Rahman</h1>
 <h3 align="center">Test Automation Engineer · API & CI/CD Automation</h3>
 
