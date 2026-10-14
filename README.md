@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="Ankon-Profile.png" alt="Banner for Alex Rahman, Test Automation Engineer" width="100%">
+  <img src="Ankon-Profile.png" alt="Banner for Alex Rahman, Test Automation Engineer" width="200" height="200">
 </p>
 
 
