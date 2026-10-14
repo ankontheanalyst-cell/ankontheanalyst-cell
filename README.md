@@ -42,10 +42,10 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**api-test-framework**](https://github.com/YOUR-USERNAME/api-test-framework) | Reusable REST API test framework with schema validation, data-driven cases, and HTML reports | Python, Pytest, Requests |
-| [**ui-e2e-suite**](https://github.com/YOUR-USERNAME/ui-e2e-suite) | Cross-browser end-to-end suite using the Page Object pattern, runs in parallel on every pull request | Playwright, GitHub Actions |
-| [**pipeline-templates**](https://github.com/YOUR-USERNAME/pipeline-templates) | Reusable CI workflow templates for linting, testing, and Docker builds | GitHub Actions, Docker |
-| [**report-automation**](https://github.com/YOUR-USERNAME/report-automation) | Script that collects test results and publishes a summary to a team channel | Python, Allure |
+| [**api-test-framework**](https://github.com/YOUR-ankontheanalyst-cell/api-test-framework) | Reusable REST API test framework with schema validation, data-driven cases, and HTML reports | Python, Pytest, Requests |
+| [**ui-e2e-suite**](https://github.com/YOUR-ankontheanalyst-cell/ui-e2e-suite) | Cross-browser end-to-end suite using the Page Object pattern, runs in parallel on every pull request | Playwright, GitHub Actions |
+| [**pipeline-templates**](https://github.com/YOUR-ankontheanalyst-cell/pipeline-templates) | Reusable CI workflow templates for linting, testing, and Docker builds | GitHub Actions, Docker |
+| [**report-automation**](https://github.com/YOUR-ankontheanalyst-cell/report-automation) | Script that collects test results and publishes a summary to a team channel | Python, Allure |
 
 *[DEMO] These repositories are placeholders. Add measurable results only once you have real figures.*
 
@@ -60,8 +60,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&count_private=false" />
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
+  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?ankontheanalyst-cell=YOUR-ankontheanalyst-cell&show_icons=true&hide_border=true&count_private=false" />
+  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?ankontheanalyst-cell=YOUR-ankontheanalyst-cell&layout=compact&hide_border=true" />
 </p>
 
 ## Let's Connect
